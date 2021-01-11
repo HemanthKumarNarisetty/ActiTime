@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="jarfolder/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="jarfolder/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="jarfolder/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="jarfolder/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="jarfolder/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="jarfolder/selenium-server-4.0.0-alpha-4.jar"/>
+	<classpathentry kind="lib" path="jarfolder/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="jarfolder/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/lib/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/lib/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/lib/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar" sourcepath="C:/Users/admin/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-chrome-driver"/>
+			<attribute name="maven.version" value="3.141.59"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
